@@ -17,4 +17,4 @@
  
  ## OUTPUT/SCREENSHOTS
  
-![](https://github.com/adarsh1405/2048/blob/master/output1.png)
+![](https://github.com/adarsh1405/2048/blob/master/output1.PNG)
