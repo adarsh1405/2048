@@ -1,6 +1,7 @@
 # 2048
 
 
+![](https://github.com/adarsh1405/2048/blob/master/330px-2048_logo.svg.png)
 #this is a FLASH GAME performed in javfx language 
 
 
