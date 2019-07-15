@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+
+<AnchorPane prefHeight="252.0" prefWidth="519.0" style="-fx-background-color: LAVENDER;" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/10.0.1">
+   <children>
+      <Pane layoutX="-135.0" layoutY="-178.0" prefHeight="200.0" prefWidth="200.0" />
+      <Label alignment="CENTER" prefHeight="333.0" prefWidth="594.0" text="Oops! you lost your game. Try once more." textAlignment="CENTER" textFill="#f83600">
+         <font>
+            <Font name="System Bold" size="24.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>
